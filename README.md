@@ -5,9 +5,11 @@ Analisis dilakukan menggunakan Power BI dengan dataset hasil survei komunitas pr
 
 📂 Sumber & Referensi
 
-- Pelatihan (YouTube Playlist): Data Analyst Bootcamp – Alex The Analyst
+- **Pelatihan (YouTube Playlist)**: Data Analyst Bootcamp – Alex The Analyst  
+  https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF  
 
-- Dataset (GitHub): Power BI – Final Project Dataset (Excel)
+- **Dataset (GitHub)**: Power BI – Final Project Dataset (Excel)  
+  https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx 
 
 🎯 Tujuan Analisis
 
