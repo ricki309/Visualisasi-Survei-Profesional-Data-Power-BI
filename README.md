@@ -35,7 +35,7 @@ Analisis dilakukan menggunakan **Power BI** dengan dataset hasil survei komunita
 
 ## 📈 Insight yang Ditemukan
 
-1.  ***Data Sains** menjadi profesi data yang memiliki rata-rata gaji tertinggi disusul oleh data enginering diurutan ke dua.  
+1.  **Data Sains** menjadi profesi data yang memiliki rata-rata gaji tertinggi disusul oleh data enginering diurutan ke dua.  
 2.  **Python** menjadi bahasa pemrograman terfavorit untuk profesi data dan **R** menjadi bahasa pemrograman ke dua.
 3.   **Profesi data** menurut responden tidak mudah dan tidak sulit yang berada pada zona abu-abu sebanyak 269 responden atau 42,7% menyatakanya.
 
