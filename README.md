@@ -41,10 +41,11 @@ Analisis dilakukan menggunakan **Power BI** dengan dataset hasil survei komunita
 
 ---
 
-## 🖥️ Tampilan Dashboard
+## 📸 Preview Visualisasi
 
 <p align="center">
-  <img width="750" height="438" alt="Data Professional Survey Dashboard" src="https://github.com/user-attachments/assets/8bb1d425-493d-4055-9cae-8627a1ab2643" />
+  <img src="visuals/visual_dashboard_survey_data.PNG" alt="Average Price by Neighbourhood" width="48%">
+  <img src="visuals/table_view_data_survey.PNG" alt="Average Price by Accommodates" width="48%">
 </p>
 
 ---
